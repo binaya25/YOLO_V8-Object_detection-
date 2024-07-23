@@ -1,0 +1,6 @@
+train: ../people/train/images
+val: ../people/valid/images
+
+
+nc: 1
+names: ['person']
